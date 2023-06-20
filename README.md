@@ -9,8 +9,12 @@
 - Design responsivo para uma jogabilidade perfeita em diferentes dispositivos.
 - Efeitos sonoros para uma experiência de jogo mais envolvente.
  
- ## Tecnologias Utilizada HTML, CSS e JavaScript para o frontend.
-- GitHub Pages para hospedar o jogo online.
+ ## Tecnologias Utilizada 
+ - HTML;
+ -  CSS;
+ -  JavaScript;
+  
+  # GitHub Pages para hospedar o jogo online.
  
  ## Para acessar
        1.[GitHub Pages](https://paulovictorrangel.github.io/Bingo/).
