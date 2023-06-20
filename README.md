@@ -10,7 +10,7 @@
  ## Tecnologias Utilizada HTML, CSS e JavaScript para o frontend.
 - GitHub Pages para hospedar o jogo online.
  ## Como Jogar
-       1. Acesse as [GitHub Pages](https://PauloVictorRangel.github.io/Bingo/) do jogo.
+       1. Acesse as [GitHub Pages](https://paulovictorrangel.github.io/Bingo/) do jogo.
        2. Escolha o número de jogadores e gere novas cartelas de bingo.
        3. O jogo começará automaticamente, e os números serão chamados aleatoriamente.
        4. Os números serão marcados automaticamente nas cartelas.
